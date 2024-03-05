@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 &show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <h1>Most used languages</h1> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCplayerFromPRC
 " /> </div>
-<div align="center"> <h1>GitHub streak/h1> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCplayerFromPRC
+<div align="center"> <h1>GitHub streak</h1> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCplayerFromPRC
 " /> </div>
 <div align="center"> <h1>GitHub Readme Activity Graph</h1> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCplayerFromPRC
 &theme=xcode" /> </div>
