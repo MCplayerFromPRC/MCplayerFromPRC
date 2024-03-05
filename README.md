@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center"> GitHub Stats Card <img src="https://github-readme-stats.vercel.app/api?username=yang-tian-hub&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> Most used languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
+<div align="center"> GitHub streak <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
+<div align="center"> GitHub Readme Activity Graph <img src="https://github-readme-activity-graph.vercel.app/graph?username=yang-tian-hub&theme=xcode" /> </div>
