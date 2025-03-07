@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </div>
 <div> 
   <h1>Most used languages</h1> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCplayerFromPRC" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCplayerFromPRC&langs_count=20&layout=compact&theme=dark" /> 
 </div>
 <div> 
   <h1>GitHub streak</h1> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCplayerFromPRC" /> 
+  <img src="https://streak-stats.demolab.com?user=MCplayerFromPRC&theme=dark" /> 
 </div>
 <div> 
   <h1>GitHub Readme Activity Graph</h1> 
